@@ -1,3 +1,5 @@
+# EDIT Apr 2024: Updated dependencies to the latest versions
+
 # Rust Latam: procedural macros workshop
 
 *This repo contains a selection of projects designed to learn to write Rust
